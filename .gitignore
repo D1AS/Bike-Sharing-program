@@ -1,0 +1,64 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+*/bin/
+*/out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio specific files
+.idea/
+*.iml
+
+# User-specific configurations
+*.hprof
+*.log
+*.orig
+
+# Generated files
+*.class
+*.dex
+*.apk
+*.ap_
+*.jar
+
+# Java class files
+*.class
+
+# Kotlin specific files
+*.kotlin_metadata
+
+# Android Studio captures
+captures/
+
+# External libraries
+external/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Gradle Wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# NDK and CMake build files
+.cmake/
+CMakeLists.txt.user
+
+# Android Emulator snapshots
+.snapshots/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Other IDEs (e.g., Eclipse)
+.classpath
+.project
+.settings/
+
+# Ignore ROOM database pre-populated test databases (if any)
+*.db
