@@ -58,6 +58,7 @@ Key features include:
 
 ## Getting Started
 
+1. Clone the repository.
 2. Open in Android Studio.
 3. Sync Gradle dependencies.
 4. Provide your own Google Maps API key in the project configuration.
